@@ -9,3 +9,6 @@ My favorite hobbies:
 * Orangetheory
 * binge watching anything sci-fi related 
 * Eating ~veggies~ cake
+
+
+## Table of Contents
