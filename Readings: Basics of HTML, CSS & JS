@@ -18,7 +18,7 @@
 
 #### Making Decisions In Your Code 
 
-1. Jnf
+1. An if statement checks a condition and if it evaluates to true, then the code block will execute.
 2. Else if statement is when a condition is false, and a different statement in the optional else classes will be executed.
 3. Three different types of comparison operators are Strict equality, and their job is to test whether the left and right values are identical. then there's Strict-non-equality which tests whether the left and right values are not similar to one another. There is Less than which tests whether the left value is smaller than the right one.
 4. && allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true. | |  allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
