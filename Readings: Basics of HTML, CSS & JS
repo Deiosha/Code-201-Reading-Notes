@@ -1,2 +1,30 @@
 #### Introduction to HTML
 
+1. Using semantic elements in our HTML is important because it produces a meaning so it can present correctly to the browser. 
+2. There are six levels of headings in HTML. Each grouping from h1 - h6 represents different types of content in the document.  
+3. Some of the use for SuperScript elements are meant to show prime integers and symbolize ordinal numbers, and Subscript elements create footnote numbers and mark up mathematical variable numbers.
+4. When using the abbr element, the attribute that must be added to provide the full expansion of the term is the title attribute.
+
+#### Learn CSS
+
+1. One of the ways we can apply CSS to our HTML is by using an external stylesheet and then linking that specific sheet to our HTML document in the head. for example <link rel="stylesheet" href="styles.css"/>
+2. We should avoid using inline styles because it is the least efficient implementation of CSS maintenance. It also blends CSS presentational code with the HTML, and the content, which makes everything confusing and harder to understand and read.  
+3. The representing selector is h2. the color component is the CSS declarations. The padding is considered properties. 
+
+#### Learn JS
+1. The data type sequence of text enclosed in single quote marks is known as a string. 
+2. Three different types of comparison operators are addition, subtraction, multiplication, division, and assignment. 
+3. A real-world problem you could solve with a Function is when trying to find the output of a variable when doing a math problem. 
+
+#### Making Decisions In Your Code 
+
+1. Jnf
+2. Else if statement is when a condition is false, and a different statement in the optional else classes will be executed.
+3. Three different types of comparison operators are Strict equality, and their job is to test whether the left and right values are identical. then there's Strict-non-equality which tests whether the left and right values are not similar to one another. There is Less than which tests whether the left value is smaller than the right one.
+4. && allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true. | |  allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+
+## Things I want to know more about
+
+How to identify the difference between function and Logical operators? 
+
+
