@@ -1,0 +1,21 @@
+### Learn HTML
+1. You should use an ordered list in your HTML when gathering a collection of items with no numerical order and when the order is meaningless. 
+2. To change the bullet style of an unordered list item by using CSS to your <ul> tags or by using the type attribute. 
+3. You use an ordered list in your HTML document when the list needs to be in a specific order. 
+4. One way to change numbers on list items is by using CSS or using the type attribute for numbers.
+ 
+### Learn CSS
+1. The CSS properties of a margin are the space around the element border. The padding properties are the space between an element's border and content.
+2. As referred to by the box model, the four parts of an HTML elements box are the padding box, margin box, content box, and border box.
+
+### Learn JS
+1. Data types you can store inside an array are strings, objects, and numbers.
+2. ….
+3. Assignment x = f(): assigns a value to a variable. Addition assignment x += f(): adds the value of the right operand to a variable and assigns the result to the variable. Subtraction assignment x -= f(): subtracts the value of the right operand from a variable and assigns the result to the variable. Multiplication assignment x * = f(): multiplies a variable by the value of the right operand and assigns the result to the variable. Division assignment x /= f(): divides a variable by the value of the right operand and assigns the result to the variable.
+4. let a = 10; let b = 'dog'; let c = false;. This is because the variables are equal to each output. 
+5. A real-world problem is figuring out if you were to look for an outcome of why "x" was happening, you'll use a JavaScript program.
+6. Loops would be useful in javascript when performing math equations. 
+
+### Things I want to know more about:
+ 
+What are some examples of when a box model is needed?
