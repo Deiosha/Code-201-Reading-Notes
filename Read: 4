@@ -1,0 +1,19 @@
+#### Learn HTML:
+1. To create a link, use an anchor element using the href attribute.
+2. The href attribute contains the web address.
+3. We can ensure links on our pages are accessible to all readers by having screen readers, search engines, and visual readers.
+#### CSS:
+1. “normal flow” is the way a webpage element is displayed if you have not yet changed the layout. 
+2. Block level is the information that files the available inline space of the parent element containing it, and it grows along the block dimension to accommodate its content. The inline part is the size of their content. 
+3. …
+4. Absolute positioning specifies the distance that should be between each element.
+5. The difference between Absolute and fixed positioning is that Absolute fixes an element in place relative to its nearest positioned ancestor. Fixes positioning usually fixes a component of the site comparable to the visible portion of the viewport. 
+#### Learn JS:
+1. A function statement declares a function for usage afterward. A function request calls a function for use.
+2. Parameters are values that need to be included inside the function parentheses to do their job correctly. Arguments are values passed to a function.
+#### Miscellaneous;
+1. One benefit of pair programming is learning from another student. We all find solutions to a problem differently, and it is always nice to get a perspective from another student, and you may find your way more accessible. Another benefit is improving social skills. It is hard to step outside my comfort zone, and making improvements in social skills can also grow my connections. 
+2. Things I want to learn more about:
+
+### Things I want to learn more about:
+How to distinguish the difference between Absolute and fixed positioning when reading code. 
