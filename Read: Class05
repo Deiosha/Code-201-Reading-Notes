@@ -1,0 +1,14 @@
+#### HTML Media:
+1. A real-world use case for the alt attribute used in a website is when the page isn't loading correctly or the user has a bad connection. The alt attribute will then give the user a description of an image. 
+2. You can improve the accessibility of images in an HTML document by adding an alt attribute and a title.
+3. An example of the figure element being useful in an HTML document is when a developer may want to move some content without breaking the HTML document. 
+4. The difference between a gif image and an SVG image is that gif images are small and straightforward, and SVG images are ideal for the user and store images using math, elements, and diagrams. 
+5. Lossless WebP would display screenshots on your website because it handles compressed images better. 
+#### Learn CSS: 
+1. The foreground color determines the color that would be visible to the user and ensure that the background and foreground don't blend. Background color replaces the original color of the HTML document with a given background color. 
+2. First, I'll make sure the background is something calming but also aligns with the mood of the website. I will then section the heading and title to be a different color, and if the owner's website has a navigation link, I'll make sure it has a different background color. 
+3. The number one thing is to make sure the font is Legible. 
+4. Font-size element sets the font size, while the font-weight element determines how bold the text is. And font-style element sets whether a font should be styled with a regular, italic, or oblique. 
+5. We can use font-size and line-height.
+#### Things I want to learn more about:
+1. How do you create a page with a lot of different colors and fonts without making the user feel overwhelmed? 
