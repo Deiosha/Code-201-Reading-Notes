@@ -1,0 +1,11 @@
+#### Javascript Object Basics:
+1. An object is something that holds related data and/or functionality. They are usually variables or functions, and the term for that is properties and methods is for when they are inside of an object.
+2. Some advantages to creating objects literals are good when creating one object and can be convenient and less coding during declaration. 
+3. Objects are properties, and arrays create and stores data in a variable. 
+4. An example of when you would need to use bracket notation to access an object’s property instead of dot notation is when you may be trying to get into an object property using a variable or when a property is a symbol or number. 
+5. “this” refers to the current object in which the code is being written. In the code, “this” refers to the name and age. The advantage of using “this” is that it allows you to reuse functions in different content. 
+#### Introduction To The Dom:
+1. DOM (Document Object Modle) is a programming interface for web documents. It is data that represents objects that comprise the structure and content of a document on the web. 
+2. Javascript allows you to control DOM, while DOM controls the scripting in Javascript. 
+#### Things I want to know more about:
+1. What are they General Requirement for DOM?
