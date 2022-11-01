@@ -1,0 +1,20 @@
+### Domain Modeling:
+
+1. We need domain modeling to create conceptual models for a specific problem. 
+
+### HTML Table Basics:
+
+1. It would help if you did not use tables for page layout because the layout tables reduce accessibility for the visually impaired, and tables are automatically responsive. 
+2. Three different semantic HTML elements used in an HTML table are <td>, <tr>, and <th>. 
+
+### Introducing Constructors:
+
+1. A constructor is used to create more than one object from a single object. One advantage is that we only need to change our code once.
+2. “This” is used to call something. Constructor is used to call “this” constructor.
+
+### Object Prototypes Using A Constructor:
+
+1. There's a manager, then two assistant managers, then four employees under them. 
+Things I want to learn more about:
+
+The term this differs when used in an object literal versus when used in a constructor because "this" is used to call something, and the constructor is used to call a specific constructor.
