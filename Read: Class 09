@@ -1,0 +1,16 @@
+### HTML Forms:
+1. Forms are important in web development because they are the main points of interaction between the user and the website or application.
+2. When designing a form, some key thing to keep in mind when it comes to user experience is to ask specifically for the data you only need because the bigger the form may increase frustration for the users or lose users.
+3. <field-set> element, whose job is to group several controls and label <label> within web forms. Another element is <legend>, which represents a caption for the content of its parent. Then there is <label> element representing a caption for an item in a user interface. Another element is <button>, which is meant to be an interactive element activated by a user with a keyboard, voice command, or other assistive technology. <select> element represents a control that provides a menu of options.
+
+### Learn JS:
+
+1. I would describe events to a non-technical friend by explaining that events occur when a system can tell you about a code.
+2. When using the addEventListener () method, the two arguments you will need to provide are the name of the event and a function to handle the event.
+3. The event object is automatically passed to event handlers to provide extra features and information. The target within an event is useful because it references the object to the event dispatched.
+4. Event bubbling captures the inner element and then moves to the outer element. Capture is taken by the outermost element and moved to the inner element. 
+
+### Things I want to learn more about:
+
+
+1. Does event bubbling happen first, or is it event capturing?
