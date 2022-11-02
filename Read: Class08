@@ -1,0 +1,9 @@
+### Learn CSS - Flexbox:
+1. Flexbox is designed for one-dimensional content. This means a flexbox has more control over alignments and space held inside a container. Because flexbox is one-dimensional, it generally focuses on a layout with a single column, row, or direction at a time.
+2. The main axis is the one set by the flex-direction property. Flex items move as a group on the main axis. ​​The main axis follows your flex direction. Cross-axis will allow you to move items as a group or individually. 
+3. You should be cautious when using any properties that reorder the visual display away from how things are ordered in an HTML document. 
+### CSS Layout: Flexbox:
+1. Some advantage of using flexbox over float is creating multiple-column layouts on web pages. Flexbox is responsive, and its margins do not collapse. 
+2. This topic connects with my long-term goal because this isn't helpful when creating CSS layouts when using floats and positioning by applying an easier method.
+### Things I want to learn more about:
+1. What does flex-wrap specifically do in an HTML document?
