@@ -1,0 +1,15 @@
+### Troubleshooting Javascript:
+
+1. A syntax error is when spelling errors in your code stop your code from working completely or partially. A syntax error will usually tell you where the code error is. Logic errors us when the program runs successfully but gives you incorrect results. It is harder to locate the error because it doesn’t direct you to the error.
+2. One error I encountered was when I spelled “let” with capitalization, and I didn’t realize it until after the line was red. Another error I encountered was when I forgot to call a function, and I was wondering why my next line of code was not working. I had to read throughout my code to find the issue. 
+3. This topic will continue to influence your long-term goals because I know I’m not the only person making errors, and when writing code, I can be more cautious about potential errors. 
+
+### The Javascript Debugger:
+
+1. The Javascript debugger tool is useful when you finding issues where you code fails. I would explain it to someone by explaining this tool is helpful to get your code to run properly. 
+2. A breakpoint is when at every breakpoint your code will stop executing. Then Javascript will examine each value.
+3. The call stack is a section that shows you what code was executed to get to the current line.
+
+### Things I want to learn more about:
+
+1. How difficult is the javascript debugger tool?
