@@ -1,0 +1,14 @@
+### Video and Audio Content:
+1. Video and audio online were plugin technologies. This caused accessibility issues. 
+2. The control elements are the same elements we use in the img elements. The source contains the path to the video you want to embed. The control element is used to include the browser's control interface. The user needs to have control of video and audio playback.
+3. It's important to have fallback content inside the <video> element because if the browser doesn't support the video, the fallback content will provide a direct link to the video file.
+4. Video and audio are confused and lost, and they need help. 
+###A Complete Guide To Grid:
+1. Grid layout is a two-dimensional grid-based layout system. Flex is a one-dimensional flow and has different use cases.
+2. Grid container is when the displayed elements are applied on the grid. It's the direct parent of all grid items. Grid items are the children of the grid container. Grid lines are divided lines that make up a structure of the grid. They are vertical or horizontal and reside on either side of a row or column.
+### Responsive Images:
+1. Developers should make images responsive because the image will show more details.
+2. <img> attributes embed an image into a document. For example, <img src=" where the IMG lives" alt=" descriptions">. Srcset attributes are one or more stings separated by commas, indicating possible image sources. Sizes attributes are one or more strings separated by commas indicating a set of source sizes. For example, sizes = max-width: 200px, 400px, 500px.
+3. srcset is the pair of images that allow the browser to choose what size each image is. 
+###Things I want to learn more about?:
+1. Srcset in image attributes. And how to properly use a grid layout. 
