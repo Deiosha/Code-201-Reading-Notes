@@ -1,0 +1,15 @@
+### JavaScript Canvas:
+1. <canvas> allows developers to chive 2D graphics.
+2. A closing </closing> tag is important because any content between the opening and closing tag is fallback content that will display only if the browser doesn't support the <canvas> element.
+3. The getContext() method takes one argument, which is the type of content, and it returns a render context object.
+
+### Charts.js Documentation:
+1. Charts.js is an easy way of creating HTML-based charts. This can be brought to my project when attempting to create data visualization.
+2. Three different Chart types you can create using Chart.js. are scatter charts, bubble charts, and area charts.
+
+### Easily Create Stunning Animated Charts With Charts.js:
+1. One advantage to displaying data via chart over a table is that it is easier to look at and convey data quickly.
+2. It will help data more easier to read and understand.
+
+### Thins I want to learn more about:
+1. How to create a scatter chart.
