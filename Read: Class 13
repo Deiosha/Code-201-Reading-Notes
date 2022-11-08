@@ -1,0 +1,6 @@
+### Local Storage & How To Use It On Website:
+1. A developer would use local storage for a web application because it allows the developer to retrieve and store data in the browser. 
+2. Sensitive information such as passwords should not be stored in the local storage.
+3. Local storage can store strings in the different keys. To convert it to that type before storing it is by the native JSON.stringify() and JSON.parse() methods.
+### Things I want to learn more about:
+1. How to properly convert using JSON.stringify() and JSON.parse() methods.
